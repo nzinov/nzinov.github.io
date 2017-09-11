@@ -1,7 +1,7 @@
-title: Nzinov.GitHub.io
-description: My pages
+title: Nikolay Zinov
+description: My personal site
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
